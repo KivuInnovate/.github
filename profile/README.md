@@ -1,5 +1,3 @@
-
-![](https://avatars.githubusercontent.com/u/88143598?s=96&v=4)
 # Kivu Innovate
 
 ## Power to Innovation
